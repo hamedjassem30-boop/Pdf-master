@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master Pro",
+  "description": "Complete on-device PDF toolkit with organize, compress, convert, edit, security, OCR, and document analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
